@@ -1,6 +1,6 @@
 # PlKiller
 A remote script which can shut other computers down.
-
+# If you want to get this software, please visit branch 'rcs'.
 Malware/Win32.plkiller
 PlKiller是对KILLER病毒的再开发版本。PlKiller是一个自由的开源病毒，您不得将其用于商业用途。此帮助文档旨在说明如何使用PlKiller以及使用过程中出现的一些问题和解决方案。
 PlKiller可以批量对计算机下达关机指令。目标计算机必须符合以下条件：
