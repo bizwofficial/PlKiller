@@ -1,5 +1,7 @@
-# PlKiller
+# PlKiller(Beta version)
 A remote script which can shut other computers down.
+# For retail build, please visit github.com/bizwofficial/plkiller/tree/rcs
+# !WARNING! If you are not a developer, don't use this beta build as it may harm your computer.
 
 Malware/Win32.plkiller
 PlKiller是对KILLER病毒的再开发版本。PlKiller是一个自由的开源病毒，您不得将其用于商业用途。此帮助文档旨在说明如何使用PlKiller以及使用过程中出现的一些问题和解决方案。
