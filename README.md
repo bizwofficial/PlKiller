@@ -1,4 +1,4 @@
-# PlKiller
+# PlKiller (Maximum Build)
 A remote script which can shut other computers down.
 # This isn't a build for users or developers!!!
 
