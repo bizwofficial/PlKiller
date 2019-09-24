@@ -1,3 +1,4 @@
+## 裨治文总统万岁！！！
 # PlKiller
 A remote script which can shut other computers down.
 
