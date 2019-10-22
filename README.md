@@ -1,4 +1,10 @@
+<<<<<< rc2
 # PlKiller (Maximum Build)
+=======
+# 裨治文总统万岁！！！
+## 圣狄奥多罗斯帝国万岁！裨治文总统万岁！
+# PlKiller
+>>>>>> rcs
 A remote script which can shut other computers down.
 # This isn't a build for users or developers!!!
 
