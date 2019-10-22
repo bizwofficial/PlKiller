@@ -1,7 +1,12 @@
+<<<<<< rc2
+# PlKiller (Maximum Build)
+=======
 # 裨治文总统万岁！！！
 ## 圣狄奥多罗斯帝国万岁！裨治文总统万岁！
 # PlKiller
+>>>>>> rcs
 A remote script which can shut other computers down.
+# This isn't a build for users or developers!!!
 
 Malware/Win32.plkiller
 PlKiller是对KILLER病毒的再开发版本。PlKiller是一个自由的开源病毒，您不得将其用于商业用途。此帮助文档旨在说明如何使用PlKiller以及使用过程中出现的一些问题和解决方案。
