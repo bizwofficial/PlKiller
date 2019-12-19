@@ -1,17 +1,10 @@
-<<<<<< rc2
-# PlKiller (Maximum Build)
-=======
-# 裨治文总统万岁！！！
-## 圣狄奥多罗斯帝国万岁！裨治文总统万岁！
-# PlKiller
->>>>>> rcs
+# _PlKiller is now outdated.Try [PlKiller 2 for Windows](https://github.com/bizwofficial/PlKiller-Windows)_
+# _当前版本的PlKiller已经过时。尝试[PlKiller 2 for Windows](https://github.com/bizwofficial/PlKiller-Windows)_
 A remote script which can shut other computers down.
-<<<<<< rcs
 # This isn't a build for users or developers!!!
 
 =======
 # If you want to get this software, please visit branch 'rcs'.
->>>>>> master
 Malware/Win32.plkiller
 PlKiller是对KILLER病毒的再开发版本。PlKiller是一个自由的开源病毒，您不得将其用于商业用途。此帮助文档旨在说明如何使用PlKiller以及使用过程中出现的一些问题和解决方案。
 PlKiller可以批量对计算机下达关机指令。目标计算机必须符合以下条件：
